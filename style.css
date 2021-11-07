@@ -1,0 +1,77 @@
+body {
+  text-align:center;
+  background: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+  background-repeat: no-repeat; 
+ }
+
+img {
+  border-radius:50%;
+  width:250px;
+  }
+
+h1 {
+  text-shadow: 2px 2px #F8BBD0;
+  font-size:20px;
+}
+ 
+p {
+  font-size:18px;
+  color:#6A1B9A;
+}
+
+.line {
+  background-color:blueviolet;
+  width:80px;
+  height:6px;
+  margin:8px auto;
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center;
+    
+}
+
+#bio {
+    padding: 20px;
+    background-color:pink;
+}
+.para {
+    font-size: 28px;
+    
+}
+.hello {
+    font-size: 55px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+#name,.para {
+   font-family: 'Dancing Script', cursive; 
+}
+
+.title {
+    font-size: 40px;
+     font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Mochiy Pop One', sans-serif;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: crimson;
+}
+
+.link {
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link:hover {
+    background-color: coral;
+}
